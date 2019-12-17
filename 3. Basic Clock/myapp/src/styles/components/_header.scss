@@ -1,0 +1,14 @@
+.header--title {
+	height: 100px;
+	position: absolute;
+	top: 0;
+	width: 100%;
+	background: $green;
+	color: $white;
+	text-transform: uppercase;
+	font-weight: 700;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-size: 30px;
+}
